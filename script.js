@@ -70,7 +70,7 @@ const yoKaiList = [
   { name: "Sincopollo", "img": "Sincopollo.png" },
   { name: "Brownilda", "img": "Brownilda.png" },
   { name: "Chapulín", "img": "Chapulin.png" },
-  { name: "Apalneado", "img": "Apanleado.png" },
+  { name: "Apanleado", "img": "Apanleado.png" },
   { name: "Panduro", "img": "Panduro.png" },
   { name: "Superniñato", "img": "Superninato.png" },
   { name: "Superniñato Rebelde", "img": "Superninato_Rebelde.png" },
